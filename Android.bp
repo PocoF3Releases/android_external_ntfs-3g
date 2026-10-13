@@ -18,6 +18,7 @@
 
 cc_defaults {
     name: "ntfs-3g_defaults",
+    recovery_available: true,
 
     cflags: [
         "-Wno-error",
